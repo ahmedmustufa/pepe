@@ -1,2 +1,2 @@
-# spartahack
-Monitoring App Info
+# Pepe
+Pepe is a total occupancy calculator. Since the beginning of time, people have used the method of counting to keep track of a large group of people. If the number of people you count at the end equals the number at the beginning, then you know everyone is present. But what if no one started counting? How would you know? Or the police? Or the fire department?...
