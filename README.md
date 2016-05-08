@@ -3,4 +3,4 @@ Pepe is a total occupancy calculator. Since the beginning of time, people have u
 
 Pepe was created using C++, OpenCV, and Web API's (dweet.io and freeboard.io) Using OpenCV libraries and dweet.io, the program transfers data collected to a website updated every 5 seconds on freeboard.io. It displays data including: maximum occupany, current room/buidling occupancy, temperature, building location, and whether the building is occupied or empty.
 
-Created at Sparthack by Ahmed Mustufa Arber Xhindoli, Kaushik Sridasyam, and Paul Schulman!
+Created at Sparthack by Ahmed Mustufa, Arber Xhindoli, Kaushik Sridasyam, and Paul Schulman!
